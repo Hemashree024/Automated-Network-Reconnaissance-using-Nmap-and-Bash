@@ -1,6 +1,3 @@
-![Screenshot 2025-05-11 213228](https://github.com/user-attachments/assets/4207b2a0-7754-4a64-a669-9f76723c6c66)
-![Screenshot 2025-05-11 213220](https://github.com/user-attachments/assets/3196c02f-740d-4e2c-b2ea-0cfe8476612e)
-![Screenshot 2025-05-11 213105](https://github.com/user-attachments/assets/64d25882-251a-426b-8fa2-bdc7d0c52a1b)
 A modern web application built with Next.js, TypeScript, and Tailwind CSS. This project features a modular component structure, support for server actions, and integrates some AI functionality.
 
 ✨ Features
@@ -81,5 +78,9 @@ npm run start     # Start the production server
 
 This project is open source and available under the [MIT License](LICENSE).
 
+OUTPUTS:
+![Screenshot 2025-05-11 213228](https://github.com/user-attachments/assets/4207b2a0-7754-4a64-a669-9f76723c6c66)
+![Screenshot 2025-05-11 213220](https://github.com/user-attachments/assets/3196c02f-740d-4e2c-b2ea-0cfe8476612e)
+![Screenshot 2025-05-11 213105](https://github.com/user-attachments/assets/64d25882-251a-426b-8fa2-bdc7d0c52a1b)
 
 
