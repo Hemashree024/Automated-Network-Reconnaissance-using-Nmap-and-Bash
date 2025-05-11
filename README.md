@@ -1,4 +1,20 @@
-A modern web application built with Next.js, TypeScript, and Tailwind CSS. This project features a modular component structure, support for server actions, and integrates some AI functionality.
+**Project Overview**
+This project focuses on automating network scanning tasks using Nmap (Network Mapper) and Bash scripting on Linux. The tool is designed to help beginners understand how cybersecurity professionals gather information about computer networks, identify potential vulnerabilities, and create a basic automated tool.
+
+**Objectiv**e
+Understand basic Nmap usage for scanning networks.
+Learn to write Bash scripts to automate common scanning operations.
+
+*Develop a beginner-friendly tool that:*
+Accepts a target IP range or domain.
+Performs basic scans (ping, port, OS detection).
+Saves output in organized files.
+Host the completed tool and documentation on GitHub.
+
+**Tools & Technologies Used**
+Nmap: For network and vulnerability scanning.
+Bash (Linux Shell Scripting): To automate the tasks.
+GitHub: For version control and public project hosting
 
 ✨ Features
 
